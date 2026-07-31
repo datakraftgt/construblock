@@ -1,3 +1,4 @@
-// Módulo de geometría: grafo half-edge, offset de ejes de muro + espesor,
-// uniones de esquina (clipper-lib). Se implementa en la Fase 3.
-export {};
+// Módulo de geometría del plano (Fase 3 — spike geométrico).
+export type { MuroEje, Poligono, Punto, TableroDetectado } from './tipos';
+export { areaPoligonoM2, ejeAPoligono, murosAPoligonos } from './muros';
+export { detectarTableros } from './tableros';
