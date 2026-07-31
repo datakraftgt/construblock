@@ -1,3 +1,12 @@
-// Datos de zona sísmica/viento por municipio, a partir de
-// /docs/municipios_zona_sismica_viento.json. Se implementa en la Fase 2.
-export {};
+import type { Municipio } from '@/lib/data';
+import data from './data.json';
+
+export const municipios: Municipio[] = data as Municipio[];
+
+export function buscarMunicipioPorNombre(nombre: string): Municipio | undefined {
+  return municipios.find((m) => m.municipio.toLowerCase() === nombre.toLowerCase());
+}
+
+export function municipiosPorDepartamento(departamento: string): Municipio[] {
+  return municipios.filter((m) => m.departamento.toLowerCase() === departamento.toLowerCase());
+}
