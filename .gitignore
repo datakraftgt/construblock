@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# material de referencia original (ya copiado a /docs, no se versiona por tamaño)
+/material-original/
+/_to_delete/
