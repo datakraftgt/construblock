@@ -1,0 +1,2666 @@
+[
+  {
+    "no": 1,
+    "municipio": "Acatenango",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 2,
+    "municipio": "Agua Blanca",
+    "departamento": "Jutiapa",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 3,
+    "municipio": "Aguacatán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 4,
+    "municipio": "Almolonga",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 5,
+    "municipio": "Alotenango",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 6,
+    "municipio": "Amatitlán",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 7,
+    "municipio": "Antigua Guatemala",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 8,
+    "municipio": "Asunción Mita",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 9,
+    "municipio": "Atescatempa",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 10,
+    "municipio": "Ayutla",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 11,
+    "municipio": "Barberena",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 12,
+    "municipio": "Cabañas",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 13,
+    "municipio": "Cabricán",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 14,
+    "municipio": "Cajola",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 15,
+    "municipio": "Camotán",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 16,
+    "municipio": "Canillá",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 17,
+    "municipio": "Cantel",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 18,
+    "municipio": "Casillas",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 19,
+    "municipio": "Catarina",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 20,
+    "municipio": "Chahal",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 21,
+    "municipio": "Chajul",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 22,
+    "municipio": "Champerico",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 23,
+    "municipio": "Chiantla",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 24,
+    "municipio": "Chicacao",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 25,
+    "municipio": "Chicamán",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 26,
+    "municipio": "Chiché",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 27,
+    "municipio": "Chichicastenango",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 28,
+    "municipio": "Chimaltenango",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 29,
+    "municipio": "Chinautla",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 30,
+    "municipio": "Chinique",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 31,
+    "municipio": "Chiquimula",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 32,
+    "municipio": "Chiquimulilla",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 33,
+    "municipio": "Chisec",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 34,
+    "municipio": "Chuarrancho",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 35,
+    "municipio": "Ciudad Vieja",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 36,
+    "municipio": "Coatepeque",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 37,
+    "municipio": "Cobán (Norte)",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 38,
+    "municipio": "Colomba",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 39,
+    "municipio": "Colotenango",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 40,
+    "municipio": "Comapa",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 41,
+    "municipio": "Comitancillo",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 42,
+    "municipio": "Concepción",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 43,
+    "municipio": "Concepción Chiquirichapa",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 44,
+    "municipio": "Concepción Huista",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 45,
+    "municipio": "Concepción Las Minas",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 46,
+    "municipio": "Concepción Tutuapa",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 47,
+    "municipio": "Conguaco",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 48,
+    "municipio": "Cubulco",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 49,
+    "municipio": "Cuilapa",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 50,
+    "municipio": "Cuilco",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 51,
+    "municipio": "Cunén",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 52,
+    "municipio": "Cuyotenango",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 53,
+    "municipio": "Dolores",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 54,
+    "municipio": "El Adelanto",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 55,
+    "municipio": "El Asintal",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 56,
+    "municipio": "El Estor",
+    "departamento": "Izabal",
+    "zona_sismo": 3,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 57,
+    "municipio": "El Jícaro",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 58,
+    "municipio": "El Palmar",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 59,
+    "municipio": "El Progreso",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 60,
+    "municipio": "El Quetzal",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 61,
+    "municipio": "El Rodeo",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 62,
+    "municipio": "El Tejar",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 63,
+    "municipio": "El Tumbador",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 64,
+    "municipio": "Escuintla",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 65,
+    "municipio": "Esquipulas",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 66,
+    "municipio": "Esquipulas Palo Gordo",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 67,
+    "municipio": "Estanzuela",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 68,
+    "municipio": "Flores",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 69,
+    "municipio": "Flores Costa Cuca",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 70,
+    "municipio": "Fraijanes",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 71,
+    "municipio": "Fray Bartolomé de las Casas",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 72,
+    "municipio": "Génova",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 73,
+    "municipio": "Granados",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 74,
+    "municipio": "Gualán",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 75,
+    "municipio": "Guanagazapa",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 76,
+    "municipio": "Guatatoya",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 77,
+    "municipio": "Guatemala",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 78,
+    "municipio": "Guazacapán",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 79,
+    "municipio": "Huehuetenango",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 80,
+    "municipio": "Huitán",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 81,
+    "municipio": "Huité",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 82,
+    "municipio": "Ipala",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 83,
+    "municipio": "Ixcán",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 84,
+    "municipio": "Ixchiguan",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 85,
+    "municipio": "Iztapa",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 86,
+    "municipio": "Jacaltenango",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 87,
+    "municipio": "Jalapa",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 88,
+    "municipio": "Jalpatagua",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 89,
+    "municipio": "Jerez",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 90,
+    "municipio": "Jocotán",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 91,
+    "municipio": "Jocotenango",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 92,
+    "municipio": "Joyabaj",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 93,
+    "municipio": "Jutiapa",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 94,
+    "municipio": "La Democracia",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 95,
+    "municipio": "La Democracia",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 96,
+    "municipio": "La Esperanza",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 97,
+    "municipio": "La Gomera",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 98,
+    "municipio": "La Libertad",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 99,
+    "municipio": "La Libertad",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 100,
+    "municipio": "La Reforma",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 101,
+    "municipio": "La Unión",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 102,
+    "municipio": "Lanquín",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 103,
+    "municipio": "Livingston",
+    "departamento": "Izabal",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 104,
+    "municipio": "Los Amates",
+    "departamento": "Izabal",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 105,
+    "municipio": "Magdalena Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 106,
+    "municipio": "Malacatán",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 107,
+    "municipio": "Malacatancito",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 108,
+    "municipio": "Masagua",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 109,
+    "municipio": "Mataquescuintla",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 110,
+    "municipio": "Mazatenango",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 111,
+    "municipio": "Melchor de Mencos",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 112,
+    "municipio": "Mixco",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 113,
+    "municipio": "Momostenango",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 114,
+    "municipio": "Monjas",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 115,
+    "municipio": "Morales",
+    "departamento": "Izabal",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 116,
+    "municipio": "Morazán",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 117,
+    "municipio": "Moyuta",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 118,
+    "municipio": "Nahualá",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 120,
+    "municipio": "Nentón",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 121,
+    "municipio": "Nueva Concepción",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 122,
+    "municipio": "Nueva Santa Rosa",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 123,
+    "municipio": "Nuevo Progreso",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 124,
+    "municipio": "Nuevo San Carlos",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 125,
+    "municipio": "Ocós",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 126,
+    "municipio": "Olintepeque",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 127,
+    "municipio": "Olopa",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 128,
+    "municipio": "Oratorio",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 129,
+    "municipio": "Pachalum",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 130,
+    "municipio": "Pajapita",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 131,
+    "municipio": "Palencia",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 132,
+    "municipio": "Palestina de Los Altos",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 133,
+    "municipio": "Palín",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 134,
+    "municipio": "Panajachel",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 135,
+    "municipio": "Panzós",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 136,
+    "municipio": "Parramos",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 137,
+    "municipio": "Pasaco",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 138,
+    "municipio": "Pastores",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 139,
+    "municipio": "Patulul",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 140,
+    "municipio": "Patzicía",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 141,
+    "municipio": "Patzité",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 142,
+    "municipio": "Patzún",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 143,
+    "municipio": "Pochuta",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 144,
+    "municipio": "Poptún",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 145,
+    "municipio": "Pueblo Nuevo",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 146,
+    "municipio": "Pueblo Nuevo Viñas",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 147,
+    "municipio": "Puerto Barrios",
+    "departamento": "Izabal",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 148,
+    "municipio": "Purulhá",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 149,
+    "municipio": "Quesada",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 150,
+    "municipio": "Quetzaltenango",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 151,
+    "municipio": "Quetzaltepeque",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 152,
+    "municipio": "Rabinal",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 153,
+    "municipio": "Raxruhá",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 154,
+    "municipio": "Retalhuleu",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 155,
+    "municipio": "Río Blanco",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 156,
+    "municipio": "Río Bravo",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 157,
+    "municipio": "Río Hondo",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 158,
+    "municipio": "Sacapulas",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 159,
+    "municipio": "Salamá",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 160,
+    "municipio": "Salcajá",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 161,
+    "municipio": "Samayac",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 162,
+    "municipio": "San Agustín Acasaguastlán",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 163,
+    "municipio": "San Andrés",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 164,
+    "municipio": "San Andrés",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 165,
+    "municipio": "San Andrés Sajcabajá",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 166,
+    "municipio": "San Andrés Semetabaj",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 167,
+    "municipio": "San Andrés Villa Seca",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 168,
+    "municipio": "San Andrés Xecul",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 169,
+    "municipio": "San Antonio Aguas Calientes",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 170,
+    "municipio": "San Antonio Huista",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 171,
+    "municipio": "San Antonio Ilotenango",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 172,
+    "municipio": "San Antonio La Paz",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 173,
+    "municipio": "San Antonio Palopó",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 174,
+    "municipio": "San Antonio Sacatepéquez",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 175,
+    "municipio": "San Antonio Suchitepéquez",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 176,
+    "municipio": "San Bartolo",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 177,
+    "municipio": "San Bartolomé Jocotenango",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 178,
+    "municipio": "San Bartolomé Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 179,
+    "municipio": "San Benito",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 180,
+    "municipio": "San Bernardino",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 181,
+    "municipio": "San Carlos Alzatate",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 182,
+    "municipio": "San Carlos Sija",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 183,
+    "municipio": "San Cristóbal Acasaguastlán",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 184,
+    "municipio": "San Cristóbal Cucho",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 185,
+    "municipio": "San Cristóbal Totonicapán",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 186,
+    "municipio": "San Cristóbal Verapaz",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 187,
+    "municipio": "San Diego",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 188,
+    "municipio": "San Felipe",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 189,
+    "municipio": "San Francisco",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 190,
+    "municipio": "San Francisco El Alto",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 191,
+    "municipio": "San Francisco La Unión",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 192,
+    "municipio": "San Francisco Zapotitlán",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 193,
+    "municipio": "San Gabriel",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 194,
+    "municipio": "San Gaspar Ixchil",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 195,
+    "municipio": "San Ildefonso Ixtahuacán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 196,
+    "municipio": "San Jacinto",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 197,
+    "municipio": "San Jerónimo",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 198,
+    "municipio": "San José (Escuintla)",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 199,
+    "municipio": "San José (Petén)",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 200,
+    "municipio": "San José Acatempa",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 201,
+    "municipio": "San José Chacayá",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 202,
+    "municipio": "San José del Golfo",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 203,
+    "municipio": "San José El Idolo",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 204,
+    "municipio": "San José La Arada",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 205,
+    "municipio": "San José Ojetenam",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 206,
+    "municipio": "San José Pinula",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 207,
+    "municipio": "San José Poaquil",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 208,
+    "municipio": "San Juan Atitán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 209,
+    "municipio": "San Juan Bautista",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 210,
+    "municipio": "San Juan Chamelco",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 211,
+    "municipio": "San Juan Comalapa",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 212,
+    "municipio": "San Juan Cotzal",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 213,
+    "municipio": "San Juan Ermita",
+    "departamento": "Chiquimula",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 214,
+    "municipio": "San Juan Ixcoy",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 215,
+    "municipio": "San Juan La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 216,
+    "municipio": "San Juan Ostuncalco",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 217,
+    "municipio": "San Juan Sacatepéquez",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 218,
+    "municipio": "San Juan Tecuaco",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 219,
+    "municipio": "San Lorenzo",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Hay dos municipios llamados 'San Lorenzo' (San Marcos y Suchitepéquez); el orden de las filas 219/220 en el PDF original es ambiguo (columna Departamento ausente); se infirió alfabéticamente. Ambos comparten zona_sismo=4 y zona_viento=B, así que no afecta el resultado de diseño."
+  },
+  {
+    "no": 220,
+    "municipio": "San Lorenzo",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Hay dos municipios llamados 'San Lorenzo' (San Marcos y Suchitepéquez); el orden de las filas 219/220 en el PDF original es ambiguo (columna Departamento ausente); se infirió alfabéticamente. Ambos comparten zona_sismo=4 y zona_viento=B, así que no afecta el resultado de diseño."
+  },
+  {
+    "no": 221,
+    "municipio": "San Lucas Sacatepéquez",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 222,
+    "municipio": "San Lucas Tolimán",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 223,
+    "municipio": "San Luis",
+    "departamento": "Petén",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 224,
+    "municipio": "San Luis Jilotepeque",
+    "departamento": "Jalapa",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 225,
+    "municipio": "San Manuel Chaparrón",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 226,
+    "municipio": "San Marcos",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 227,
+    "municipio": "San Marcos La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 228,
+    "municipio": "San Martín Jilotepeque",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 229,
+    "municipio": "San Martín Sacatepéquez",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 230,
+    "municipio": "San Martín Zapotitlán",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 231,
+    "municipio": "San Mateo Ixtatán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 232,
+    "municipio": "San Mateo",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 233,
+    "municipio": "San Miguel Acatán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 234,
+    "municipio": "San Miguel Chicaj",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 235,
+    "municipio": "San Miguel Dueñas",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 236,
+    "municipio": "San Miguel Ixtahuacán",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 237,
+    "municipio": "San Miguel Panán",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 238,
+    "municipio": "San Miguel Petapa",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": "Departamento no aparece en la página 134 del PDF original (defecto del documento fuente); completado mediante verificación externa (Wikipedia - Municipalities of Guatemala)."
+  },
+  {
+    "no": 239,
+    "municipio": "San Miguel Sigüilá",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 240,
+    "municipio": "San Pablo",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 241,
+    "municipio": "San Pablo Jocopilas",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 242,
+    "municipio": "San Pablo La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 243,
+    "municipio": "San Pedro Ayampuc",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 244,
+    "municipio": "San Pedro Carchá",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 245,
+    "municipio": "San Pedro Jocopilas",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 246,
+    "municipio": "San Pedro La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 247,
+    "municipio": "San Pedro Necta",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 248,
+    "municipio": "San Pedro Pinula",
+    "departamento": "Jalapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 249,
+    "municipio": "San Pedro Sacatepéquez",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 250,
+    "municipio": "San Pedro Sacatepéquez",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 251,
+    "municipio": "San Pedro Soloma",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 252,
+    "municipio": "San Rafael La Independencia",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 253,
+    "municipio": "San Rafael Las Flores",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 254,
+    "municipio": "San Rafael Petzal",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 255,
+    "municipio": "San Rafael Pie de la Cuesta",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 256,
+    "municipio": "San Raymundo",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 257,
+    "municipio": "San Sebastián",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 258,
+    "municipio": "San Sebastián Coatán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 259,
+    "municipio": "San Sebastián Huehuetenango",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 260,
+    "municipio": "San Vicente Pacaya",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 261,
+    "municipio": "Sanarate",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 262,
+    "municipio": "Sansare",
+    "departamento": "El Progreso",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 263,
+    "municipio": "Santa Ana",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 264,
+    "municipio": "Santa Ana Huista",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 265,
+    "municipio": "Santa Apolonia",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 266,
+    "municipio": "Santa Bárbara",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 267,
+    "municipio": "Santa Bárbara",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 268,
+    "municipio": "Santa Catalina La Tinta",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 269,
+    "municipio": "Santa Catarina Barahona",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 270,
+    "municipio": "Santa Catarina Ixtahuacán",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 271,
+    "municipio": "Santa Catarina Mita",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 272,
+    "municipio": "Santa Catarina Palopó",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 273,
+    "municipio": "Santa Catarina Pinula",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 274,
+    "municipio": "Santa Clara La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 275,
+    "municipio": "Santa Cruz Balanyá",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 276,
+    "municipio": "Santa Cruz Barillas",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 277,
+    "municipio": "Santa Cruz del Quiché",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 278,
+    "municipio": "Santa Cruz el Chol",
+    "departamento": "Baja Verapaz",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 279,
+    "municipio": "Santa Cruz La Laguna",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "100 kph",
+    "notas": "El documento original (página 136) tiene literalmente '100 kph' en la columna zona de viento en vez de 'A' o 'B' — anomalía del documento fuente, no de la extracción. Verificar/decidir cómo tratarlo en la app (posiblemente equivalente a zona A dado que es una velocidad alta, pero no se asume sin confirmación)."
+  },
+  {
+    "no": 280,
+    "municipio": "Santa Cruz Muluá",
+    "departamento": "Retalhuleu",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 281,
+    "municipio": "Santa Cruz Naranjo",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 282,
+    "municipio": "Santa Cruz Verapaz",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 283,
+    "municipio": "Santa Eulalia",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 284,
+    "municipio": "Santa Lucía Cotzumalguapa",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 285,
+    "municipio": "Santa Lucía La Reforma",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 286,
+    "municipio": "Santa Lucía Milpas Altas",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 287,
+    "municipio": "Santa Lucía Utatlán",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 288,
+    "municipio": "Santa María Cahabón",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 289,
+    "municipio": "Santa María Chiquimula",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 290,
+    "municipio": "Santa María de Jesús",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 291,
+    "municipio": "Santa María Ixhuatán",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 292,
+    "municipio": "Santa María Visitación",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 293,
+    "municipio": "Santa Rosa de Lima",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 294,
+    "municipio": "Santiago Atitlán",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 295,
+    "municipio": "Santiago Chimaltenango",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 296,
+    "municipio": "Santiago Sacatepéquez",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 297,
+    "municipio": "Santo Domingo Suchitepquez",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 298,
+    "municipio": "Santo Domingo Xenacoj",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 299,
+    "municipio": "Santo Tomás La Unión",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 300,
+    "municipio": "Sayaxché",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 301,
+    "municipio": "Senahú",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 302,
+    "municipio": "Sibilia",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 303,
+    "municipio": "Sibinal",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 304,
+    "municipio": "Sipacapa",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 305,
+    "municipio": "Siquinalá",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 306,
+    "municipio": "Sololá",
+    "departamento": "Sololá",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 307,
+    "municipio": "Sumpango",
+    "departamento": "Sacatepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 308,
+    "municipio": "Tacaná",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 309,
+    "municipio": "Tactic",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 310,
+    "municipio": "Tajumulco",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 311,
+    "municipio": "Tamahú",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 312,
+    "municipio": "Taxisco",
+    "departamento": "Santa Rosa",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 313,
+    "municipio": "Tecpán Guatemala",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 314,
+    "municipio": "Tectitán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 315,
+    "municipio": "Teculután",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 316,
+    "municipio": "Tejutla",
+    "departamento": "San Marcos",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 317,
+    "municipio": "Tiquisate",
+    "departamento": "Escuintla",
+    "zona_sismo": 4,
+    "zona_viento": "A",
+    "notas": null
+  },
+  {
+    "no": 318,
+    "municipio": "Todos Santos Cuchumatán",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 319,
+    "municipio": "Totonicapán",
+    "departamento": "Totonicapán",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 320,
+    "municipio": "Tucurú",
+    "departamento": "Alta Verapaz",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 321,
+    "municipio": "Unión Cantinil",
+    "departamento": "Huehuetenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 322,
+    "municipio": "Uspantán",
+    "departamento": "Quiché",
+    "zona_sismo": 3,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 323,
+    "municipio": "Usumatlán",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 324,
+    "municipio": "Villa Canales",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 325,
+    "municipio": "Villa Nueva",
+    "departamento": "Guatemala",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 326,
+    "municipio": "Yepocapa",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 327,
+    "municipio": "Yupiltepeque",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 328,
+    "municipio": "Zacapa",
+    "departamento": "Zacapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 329,
+    "municipio": "Zacualpa",
+    "departamento": "Quiché",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 330,
+    "municipio": "Zapotitlán",
+    "departamento": "Jutiapa",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 331,
+    "municipio": "Zaragoza",
+    "departamento": "Chimaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 332,
+    "municipio": "Zunil",
+    "departamento": "Quetzaltenango",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 333,
+    "municipio": "Zunilito",
+    "departamento": "Suchitepéquez",
+    "zona_sismo": 4,
+    "zona_viento": "B",
+    "notas": null
+  },
+  {
+    "no": 334,
+    "municipio": "Las Cruces",
+    "departamento": "Petén",
+    "zona_sismo": 2,
+    "zona_viento": "B",
+    "notas": null
+  }
+]
